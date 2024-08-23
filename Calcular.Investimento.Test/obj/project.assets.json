@@ -667,11 +667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
+      "projectUniqueName": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
       "projectName": "Calcular.Investimento.Test",
-      "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
+      "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
       "packagesPath": "C:\\Users\\sicut\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\obj\\",
+      "outputPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -693,11 +693,11 @@
         "net472": {
           "targetAlias": "net472",
           "projectReferences": {
-            "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
-              "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj"
+            "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
+              "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj"
             },
-            "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj": {
-              "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj"
+            "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj": {
+              "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj"
             }
           }
         }

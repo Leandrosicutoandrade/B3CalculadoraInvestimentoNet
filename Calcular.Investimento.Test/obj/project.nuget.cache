@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aa7cJkT+nRMCVvqMTc8o06szNTby6nTObElE7Ri+4dkdEqpHFQeXO+BasKm9Trqp+rF5YEcT5HW7Iq9Tk3rjnA==",
+  "dgSpecHash": "EUfRcSJkqv7c6yYBadicA395QZ1+dPF8pTRoMQke3QNqIqx2ogzX7zaKGNgJ0qOXjJyduptlERYbyII1nDTS8Q==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
+  "projectFilePath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sicut\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\sicut\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",

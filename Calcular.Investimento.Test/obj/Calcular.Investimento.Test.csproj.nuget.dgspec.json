@@ -1,19 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj": {}
+    "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
+    "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj",
+        "projectUniqueName": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj",
         "projectName": "Calcular.Investimento.Core",
-        "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj",
+        "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj"
+              "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj"
               }
             }
           }
@@ -23,11 +23,11 @@
         "net472": {}
       }
     },
-    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj": {
+    "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj",
         "projectName": "Calcular.Investimento.Domain",
-        "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj",
+        "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -38,14 +38,14 @@
         "net472": {}
       }
     },
-    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj": {
+    "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
+        "projectUniqueName": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
         "projectName": "Calcular.Investimento.Test",
-        "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
+        "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
         "packagesPath": "C:\\Users\\sicut\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\obj\\",
+        "outputPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -67,11 +67,11 @@
           "net472": {
             "targetAlias": "net472",
             "projectReferences": {
-              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
-                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj"
+              "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj"
               },
-              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj": {
-                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj"
+              "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj"
               }
             }
           }
@@ -111,19 +111,19 @@
         }
       }
     },
-    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj": {
+    "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj",
+        "projectUniqueName": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj",
         "projectName": "Calcular.Investimento.WebApi",
-        "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj",
+        "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
-                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj"
+              "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj"
               },
-              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj"
+              "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\B3CalculadoraInvestimentoNet\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj"
               }
             }
           }

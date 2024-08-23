@@ -4,3 +4,13 @@ C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\obj\Debug\Calcular.Inves
 C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.dll
 C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.pdb
 C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.csproj.AssemblyReference.cache
+C:\Projetos\GFT-B3\CalculoInvestimento\Calcular.Investimento.Domain\bin\Debug\Calcular.Investimento.Domain.dll
+C:\Projetos\GFT-B3\CalculoInvestimento\Calcular.Investimento.Domain\bin\Debug\Calcular.Investimento.Domain.pdb
+C:\Projetos\GFT-B3\CalculoInvestimento\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\GFT-B3\CalculoInvestimento\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.dll
+C:\Projetos\GFT-B3\CalculoInvestimento\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.pdb
+C:\Projetos\GFT-B3\B3CalculadoraInvestimentoNet\Calcular.Investimento.Domain\bin\Debug\Calcular.Investimento.Domain.dll
+C:\Projetos\GFT-B3\B3CalculadoraInvestimentoNet\Calcular.Investimento.Domain\bin\Debug\Calcular.Investimento.Domain.pdb
+C:\Projetos\GFT-B3\B3CalculadoraInvestimentoNet\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\GFT-B3\B3CalculadoraInvestimentoNet\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.dll
+C:\Projetos\GFT-B3\B3CalculadoraInvestimentoNet\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.pdb
