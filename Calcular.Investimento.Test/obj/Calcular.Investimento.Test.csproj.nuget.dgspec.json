@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj",
+        "projectName": "Calcular.Investimento.Core",
+        "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj",
+        "projectName": "Calcular.Investimento.Domain",
+        "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
+        "projectName": "Calcular.Investimento.Test",
+        "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\Calcular.Investimento.Test.csproj",
+        "packagesPath": "C:\\Users\\sicut\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sicut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj"
+              },
+              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.133\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj",
+        "projectName": "Calcular.Investimento.WebApi",
+        "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.WebApi\\Calcular.Investimento.WebApi.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Core\\Calcular.Investimento.Core.csproj"
+              },
+              "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\GFT-B3\\Calculo\\Calcular.Investimento.Domain\\Calcular.Investimento.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

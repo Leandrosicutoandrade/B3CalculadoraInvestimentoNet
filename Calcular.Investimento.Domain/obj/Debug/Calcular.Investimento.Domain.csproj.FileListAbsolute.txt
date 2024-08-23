@@ -1,0 +1,6 @@
+C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\bin\Debug\Calcular.Investimento.Domain.dll
+C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\bin\Debug\Calcular.Investimento.Domain.pdb
+C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.dll
+C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.pdb
+C:\Projetos\GFT-B3\Calculo\Calcular.Investimento.Domain\obj\Debug\Calcular.Investimento.Domain.csproj.AssemblyReference.cache

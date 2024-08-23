@@ -1,0 +1,32 @@
+<!-- form-cdb.component.html -->
+<div class="form-container">
+  <form [formGroup]="cdbForm" (ngSubmit)="onSubmit()">
+    <h2>Calculadora de CDB</h2>
+
+    <div class="form-group">
+      <label for="valor">Valor de Investimento:</label>
+      <input id="valor" formControlName="valor" type="number" placeholder="Digite o valor do investimento" />
+    </div>
+
+    <div class="form-group">
+      <label for="mes">Quantidade de Meses:</label>
+      <input id="mes" formControlName="mes" min="1" type="number" placeholder="Digite a quantidade de meses" />
+    </div>
+
+    <button type="submit">Calcular Retorno</button>
+
+  </form>
+
+    <div *ngIf="resultado">
+      <h3>Resultado do Investimento</h3>
+      <p>Valor Inicial: {{ resultado.ValorInicial | currency:'BRL':'symbol':'1.2-2' }}</p>
+      <p>Prazo em Meses: {{ resultado.PrazoMes }}</p>
+      <p>Valor Bruto: {{ resultado.ValorBruto | currency:'BRL':'symbol':'1.2-2' }}</p>
+      <p>Valor do Imposto: {{ resultado.ValorImposto | currency:'BRL':'symbol':'1.2-2' }}</p>
+      <p>Valor Líquido: {{ resultado.ValorLiquido | currency:'BRL':'symbol':'1.2-2' }}</p>
+      <p>CDI: {{ resultado.Cdi | percent:'1.0-2' }}</p>
+      <p>Taxa do Banco: {{ resultado.TaxaBanco | percent }}</p>
+      
+    </div>
+
+</div>
